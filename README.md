@@ -1,8 +1,8 @@
-# [your app name here]
+# Ramblr
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Zainab Akhtar, Jasper Caballero, Aquila Nuzhat
 
 🔗 Link to deployed app:
 
@@ -10,11 +10,11 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+A web platform designed to help travelers plan out every aspect of their trip in one place!
 
 ### Inspiration
 
-[text goes here]
+As we have experienced the struggle to plan a trip across different platforms for lodging, activities, etc. we shared the sentiment of wanting to able to plan it all in one place. And thus, Ramblr became our theme!
 
 ## Tech Stack
 
@@ -24,25 +24,29 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### 1: Trips
 
-[short description goes here]
+Will store a list of all the trips the user has planned for in the user profile
 
-[gif goes here]
+### 2: Trip
 
-### [Name of Feature 2]
+Will display dates of trip, an itinerary of activities, packing list, and expenses of the trip
 
-[short description goes here]
+### 3: Activity
 
-[gif goes here]
+Will store the location and type of activity to be part of the trip itinerary
 
-### [Name of Feature 3]
+### 4: Expenses
 
-[short description goes here]
+Will add up the costs of all the activities planned + lodging + transportation to give user a summary of trip expenses
 
-[gif goes here]
+### 5: Packing List
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+Will store all the items the user plans to take (ie. clothes, travel sized lotion, scuba gear)
+
+### 6: Weather API
+
+A tab displaying the weather for all the days of the trip so that the user can plan accordingly
 
 ## Installation Instructions
 
