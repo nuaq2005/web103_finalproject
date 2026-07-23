@@ -5,14 +5,14 @@ import {
   createTrip,
   updateTrip,
   deleteTrip,
-} from "../controllers/tripsController.js";
+} from "../controllers/trips.js";
 
 const router = Router();
 
 router.get("/", getAllTrips);
 router.get("/:id", getTripById);
 router.post("/", createTrip);
-router.put("/:id", updateTrip);
+router.patch("/:id", updateTrip);
 router.delete("/:id", deleteTrip);
 
 export default router;
